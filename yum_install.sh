@@ -1,7 +1,7 @@
 #!/bin/bash
 
 ###### variables ################### 
-SOURCE="net-snmp-devel gcc gcc-c++ autoconf ntp make net-snmp net-snmp-devel lrzsz wget nmap lsof libjpeg libjpeg-devel libpng libpng-devel freetype freetype-devel libxml2 libxml2-devel zlib zlib-devel glibc glibc-devel glib2 glib2-devel bzip2 bzip2-devel ncurses ncurses-devel curl curl-devel e2fsprogs e2fsprogs-devel krb5-devel libidn libidn-devel openssl openssl-devel libxslt-devel bison libtool vim-enhanced readline readline-devel subversion ghostscript gd libtool-l* cmake gd gd-devel libxslt"
+SOURCE="gcc gcc-c++ autoconf ntp make net-snmp net-snmp-devel lrzsz wget nmap lsof libjpeg libjpeg-devel libpng libpng-devel freetype freetype-devel libxml2 libxml2-devel zlib zlib-devel glibc glibc-devel glib2 glib2-devel bzip2 bzip2-devel ncurses ncurses-devel curl curl-devel e2fsprogs e2fsprogs-devel krb5-devel libidn libidn-devel openssl openssl-devel libxslt-devel bison libtool vim-enhanced readline readline-devel subversion ghostscript gd libtool-l* cmake gd gd-devel libxslt"
 
 #########OK and failed ######## 
 GREEN_OK="\e[0;32m\033[1mOK\e[m"  
